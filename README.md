@@ -2,7 +2,7 @@
 A basic single player game built in Python using Python's turtle module.
 
 # Demo:
-![demo](https://github.com/dromenjager/turtle-crossing-game/blob/main/demo.mp4)
+![demo](https://github.com/dromenjager/turtle-crossing-game/blob/main/demo.gif)
 
 # How to install:
 
