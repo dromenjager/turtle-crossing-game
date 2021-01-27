@@ -1,10 +1,10 @@
 # Turtle Crossing Game
 A basic single player game built in Python using Python's turtle module.
 
-# Demo:
+## Demo:
 ![demo](https://github.com/dromenjager/turtle-crossing-game/blob/main/demo.gif)
 
-# How to install:
+## How to install:
 
 1. Copy the link of the repository.
 2. Clone the drive to your local storage.
@@ -15,12 +15,12 @@ cd ~ && git clone https://github.com/dromenjager/turtle-crossing-game
 ```
 cd ~/turtle-crossing-game
 ```
-4. Open file with python3.
+## Start the game
 ```
 python3 ./game.py
 ```
 
-# Instructions:
+## Instructions:
 1. **Controls**:
 > Up arrow key - Move the turtle forward
 
